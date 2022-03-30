@@ -8,5 +8,5 @@ hello Git;	hello World.
 hello Git;	hello World.
 hello Git;	hello World.
 hello Git;	hello World.
-hello Git;	hello World.
+hello Git;	hello World.  master test
 hello Git;	hello World.
